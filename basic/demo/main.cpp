@@ -149,7 +149,7 @@ int main()
 	//异常处理
 	//TestForDivision(); 
 	//TestForExceptionOfDivision();
-	TestForMyException();
+	//TestForMyException();
 
 	//模板，命名空间
 	//TestForNamespace();

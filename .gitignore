@@ -1,4 +1,5 @@
-basic/.vs
+basic/.vs/
 basic/demo.VC.db
+basic/demo.VC.VC.opendb
 base/x64
-
+base/demo/x64
