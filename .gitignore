@@ -1,5 +1,7 @@
-basic/.vs/
-basic/demo.VC.db
-basic/demo.VC.VC.opendb
-base/x64
-base/demo/x64
+basic/Test/.vs/
+basic/Test/demo.VC.db
+basic/Test/demo.VC.VC.opendb
+basic/Test/x64/
+basic/Test/demo/x64/
+basic/Test/demo/demo.vcxproj.filters
+basic/Test/demo/demo.vcxproj.user
